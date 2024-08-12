@@ -1,5 +1,2 @@
 # proyectoIngenieriaSoftwareGrupo2.1
-# proyectoIngenieriaSoftwareGrupo2
-# proyectoIngenieriaSoftwareGrupo2
-# proyectoIngenieriaSoftwareGrupo2.1
-# proyectoIngenieriaSoftwareGrupo2.1
+
